@@ -1,5 +1,5 @@
 # MeeporxGeneticResearchOrganization
-A game that involves both biology, and mechanical creation.  
+A game that involves both biology, and mechanical creativity.  
 If you would like to be part of the deveopment of this game, see "How to sign up"  
 If you would like to see what this game is all about, see "description"  
 All information is in the wiki. Although deveopment isn't taking place on GitHub, future plans  
